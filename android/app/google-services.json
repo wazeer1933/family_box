@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208068920412",
+    "project_id": "familybox-23dc1",
+    "storage_bucket": "familybox-23dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208068920412:android:62b2ecc5cf8f3ed1e51299",
+        "android_client_info": {
+          "package_name": "com.example.family_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJ2I_VewAZVJp8B9AU4ZIcFzxReCexQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
